@@ -1,0 +1,2 @@
+# Facial Expression Synthesis Using GAN Architecture
+An implementation and application of STARGAN architecture for Facial expression synthesis. The model was trained to synthesize 8 different facial expressions given a raw image.

@@ -1,0 +1,3 @@
+#link for the folder that containts the trained model
+
+https://drive.google.com/drive/folders/1CLZ7tQaA21vpAOx2M_aQCaeIdhcFiw0E?usp=sharing
